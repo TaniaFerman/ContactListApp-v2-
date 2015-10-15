@@ -1,0 +1,3 @@
+class ConactDatabase
+
+end
